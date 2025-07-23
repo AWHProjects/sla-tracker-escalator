@@ -1,0 +1,11 @@
+id,title,priority,status,created_at,customer,assignee,category
+TKT-001,Login issues with mobile app,high,open,2025-01-22T20:00:00Z,Acme Corp,john.doe@company.com,technical
+TKT-002,Password reset not working,medium,open,2025-01-23T02:00:00Z,Beta Industries,jane.smith@company.com,account
+TKT-003,Critical system outage,critical,open,2025-01-23T04:30:00Z,Gamma LLC,urgent.team@company.com,infrastructure
+TKT-004,Feature request for dashboard,low,open,2025-01-20T10:00:00Z,Delta Corp,feature.team@company.com,enhancement
+TKT-005,Email notifications not received,medium,open,2025-01-22T14:00:00Z,Epsilon Ltd,support@company.com,notification
+TKT-006,Database connection timeout,high,open,2025-01-23T01:00:00Z,Zeta Systems,database.team@company.com,technical
+TKT-007,UI bug in checkout process,medium,open,2025-01-22T16:30:00Z,Eta Commerce,ui.team@company.com,bug
+TKT-008,API rate limiting issues,high,open,2025-01-23T03:15:00Z,Theta Tech,api.team@company.com,technical
+TKT-009,Account billing discrepancy,medium,open,2025-01-22T11:00:00Z,Iota Finance,billing@company.com,billing
+TKT-010,Performance degradation,critical,open,2025-01-23T04:45:00Z,Kappa Solutions,performance.team@company.com,performance

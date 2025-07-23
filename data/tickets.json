@@ -1,0 +1,104 @@
+{
+  "tickets": [
+    {
+      "id": "TKT-001",
+      "title": "Login issues with mobile app",
+      "priority": "high",
+      "status": "open",
+      "created_at": "2025-01-22T20:00:00Z",
+      "customer": "Acme Corp",
+      "assignee": "john.doe@company.com",
+      "category": "technical"
+    },
+    {
+      "id": "TKT-002",
+      "title": "Password reset not working",
+      "priority": "medium",
+      "status": "open",
+      "created_at": "2025-01-23T02:00:00Z",
+      "customer": "Beta Industries",
+      "assignee": "jane.smith@company.com",
+      "category": "account"
+    },
+    {
+      "id": "TKT-003",
+      "title": "Critical system outage",
+      "priority": "critical",
+      "status": "open",
+      "created_at": "2025-01-23T04:30:00Z",
+      "customer": "Gamma LLC",
+      "assignee": "urgent.team@company.com",
+      "category": "infrastructure"
+    },
+    {
+      "id": "TKT-004",
+      "title": "Feature request for dashboard",
+      "priority": "low",
+      "status": "open",
+      "created_at": "2025-01-20T10:00:00Z",
+      "customer": "Delta Corp",
+      "assignee": "feature.team@company.com",
+      "category": "enhancement"
+    },
+    {
+      "id": "TKT-005",
+      "title": "Email notifications not received",
+      "priority": "medium",
+      "status": "open",
+      "created_at": "2025-01-22T14:00:00Z",
+      "customer": "Epsilon Ltd",
+      "assignee": "support@company.com",
+      "category": "notification"
+    },
+    {
+      "id": "TKT-006",
+      "title": "Database connection timeout",
+      "priority": "high",
+      "status": "open",
+      "created_at": "2025-01-23T01:00:00Z",
+      "customer": "Zeta Systems",
+      "assignee": "database.team@company.com",
+      "category": "technical"
+    },
+    {
+      "id": "TKT-007",
+      "title": "UI bug in checkout process",
+      "priority": "medium",
+      "status": "open",
+      "created_at": "2025-01-22T16:30:00Z",
+      "customer": "Eta Commerce",
+      "assignee": "ui.team@company.com",
+      "category": "bug"
+    },
+    {
+      "id": "TKT-008",
+      "title": "API rate limiting issues",
+      "priority": "high",
+      "status": "open",
+      "created_at": "2025-01-23T03:15:00Z",
+      "customer": "Theta Tech",
+      "assignee": "api.team@company.com",
+      "category": "technical"
+    },
+    {
+      "id": "TKT-009",
+      "title": "Account billing discrepancy",
+      "priority": "medium",
+      "status": "open",
+      "created_at": "2025-01-22T11:00:00Z",
+      "customer": "Iota Finance",
+      "assignee": "billing@company.com",
+      "category": "billing"
+    },
+    {
+      "id": "TKT-010",
+      "title": "Performance degradation",
+      "priority": "critical",
+      "status": "open",
+      "created_at": "2025-01-23T04:45:00Z",
+      "customer": "Kappa Solutions",
+      "assignee": "performance.team@company.com",
+      "category": "performance"
+    }
+  ]
+}
